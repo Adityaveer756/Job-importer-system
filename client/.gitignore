@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# VSCode
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Frontend build
+.next/
