@@ -70,7 +70,7 @@ cp client/.env.example client/.env
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/job-importer-system.git
+git clone https://github.com/Adityaveer756/Job-importer-system.git
 cd job-importer-system
 ```
 
